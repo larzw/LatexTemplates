@@ -1,6 +1,5 @@
-#Latex Templates
-This repository contains three **independent** latex examples/templates
+# Latex Templates
+This repository contains two **independent** latex examples/templates
 
-1. Physical Review C paper
-2. Beamer poster
-3. Beamer slide show presentation
+1. Beamer poster
+2. Beamer slide show presentation
